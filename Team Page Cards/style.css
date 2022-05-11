@@ -1,0 +1,110 @@
+/* PAIN OF CARDS */
+
+.card1 {
+  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 22%;
+}
+
+.card1:hover {
+  box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+}
+
+.container1 {
+  padding: 10px 10px;
+  
+}
+
+/* Othger idk */
+
+
+.aw {
+  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    
+}
+
+.A {
+  display: flex;
+justify-content: center;
+}
+
+.M {
+  display: flex;
+  gap: 0 50px;
+}
+
+.M1 {
+    padding: 0px 35px 0px 35px
+}
+
+.ALE {
+  padding-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+/* team.html */
+
+.O {
+  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+}
+
+.profilehead {
+ 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container2 {
+  padding: 3px;
+  
+}
+
+.M2 {
+  margin: auto;
+  width: 100%;
+  padding: 0px 40px 0px 40px
+}
+
+.teamcardgap {
+  display: flex;
+  gap: 75px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.K {
+ 	  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.K1 {
+ 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.KL {
+  padding-top: 50px;
+}
